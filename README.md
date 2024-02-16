@@ -14,3 +14,8 @@ Usage
 
 For usage see the tests at `TestTaskNursery.cs`.
 
+Notes
+---
+
+* Not thread safe.  Assumption is that you're using it from unity main thread.  Currently unclear how this will be handled in the future when we want multi thread support
+
