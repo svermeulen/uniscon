@@ -1,0 +1,14 @@
+{
+  "name": "com.svermeulen.uniscon",
+  "version": "0.0.1",
+  "displayName": "Uniscon",
+  "description": "Structure Concurrency for Unity",
+  "unity": "2023.2",
+  "author": {
+    "name": "Steve Vermeulen",
+    "email": "sfvermeulen@gmail.com",
+    "url": "https://github.com/svermeulen"
+  },
+  "keywords": ["unity", "async", "concurrency", "async-await", "awaitable", "coroutines"]
+}
+
